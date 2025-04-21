@@ -12,4 +12,3 @@ _Teaching Assistant_
 * ECON724 International trade (PhD), 2023
 * ECON6019 Principles of Economics II (Master), 2023
 * ECON601 Microeconomics I (PhD), 2022
-
