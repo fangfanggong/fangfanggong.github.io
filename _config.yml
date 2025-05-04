@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Fangfang GONG（龚芳芳）"
 title_separator          : "-"
 name                     : &name "Fangfang Gong"
-description              : &description "personal description"
+description              : &description "Personal website of Fangfang Gong, PhD candidate."
 url                      : https://fangfanggong.github.io
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fangfanggong.github.io"
