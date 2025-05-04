@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,55 +10,33 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+-----
+* Ph.D in Economics, School of Economics, Singapore Management University, 2021 - present.
+* Master in Applied Economics, School of Social Science, Nanyang Technological University, 2020-2021.
+* Bachelor in Economics, International Business School, Beijing Foreign Studies University, 2015-2019.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Research Interests
+-----
+* Primary fields: Macroeconomics
+* Secondary fields: Monetary economics
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Working Papers
+-----
+[See Research](../research/)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Conference and Seminar Presentations
+-----
+* SMU Brownbag Workshop, Singapore 2025
+* Singapore Rising Scholar Conference, Singapore 2025
+* 12th ABFER Annual Conference, PhD Poster Session, Singapore 2025
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Honors and Scholarships
+-----
+* Presidential Doctoral Fellowship, SMU, 2024
+* PhD Full Scholarship, SMU, 2021-2025
+* Half Tuition Scholarship, NTU, 2021
+* Outstanding Graduate Student of the Year, Beijing Foreign Studies University, 2019
+* State Encouragement Scholarship, 2018
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

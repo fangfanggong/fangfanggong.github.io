@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<!-- {% include base_path %} -->
-
 Working Paper
 -----
 1. How Should Central Bank Issue Digital Currency? (Draft available upon request)

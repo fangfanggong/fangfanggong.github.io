@@ -1,11 +1,12 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: /Teaching/
+permalink: /teaching/
 author_profile: true
 ---
 
 **Singapore Management University**
+<br>
 _Teaching Assistant_
 
 * ECON622 Macroeconomics II (PhD), 2024-2025
