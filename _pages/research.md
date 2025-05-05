@@ -9,4 +9,4 @@ Working Paper
 -----
 1. How Should Central Bank Issue Digital Currency? (Draft available upon request)
 
-2. Distributional Welfare Costs of Inflation Revisited in a Heterogeneous-agent Monetary-Search Model ([Manuscript](publications/Project_0_draft_wo_template.pdf))
+2. Distributional Welfare Costs of Inflation Revisited in a Heterogeneous-agent Monetary-Search Model ([Manuscript](_publications/Project_0_draft_wo_template.pdf))
