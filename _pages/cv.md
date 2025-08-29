@@ -26,13 +26,15 @@ Working Papers
 
 Conference and Seminar Presentations
 -----
+* Inaugural Workshop on China’s Development on Digital Finance, Guangzhou, China 2025
+* Asia-Pacific Search and Matching Workshop, Hong Kong 2025
 * SMU Brownbag Workshop, Singapore 2025
 * Singapore Rising Scholar Conference, Singapore 2025
 * 12th ABFER Annual Conference, PhD Poster Session, Singapore 2025
 
 Honors and Scholarships
 -----
-* Presidential Doctoral Fellowship, SMU, 2024
+* Presidential Doctoral Fellowship, SMU, 2024-2026
 * PhD Full Scholarship, SMU, 2021-2025
 * Half Tuition Scholarship, NTU, 2021
 * Outstanding Graduate Student of the Year, Beijing Foreign Studies University, 2019
