@@ -11,7 +11,7 @@ Working Paper
 
 2. Distributional Welfare Costs of Inflation Revisited in a Heterogeneous-agent Monetary-Search Model (with Nicolas Jacquet [Manuscript](/assets/draft_papers/manuscript_ch1.pdf))
 
-Work in progress
+Work in Progress
 -----
 1. Endogenous Liquidity and Capital Customization” (with Nicolas Jacquet)
 
