@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# [Curriculum Vitae](assets/files/cv-en.pdf)
+# [Curriculum Vitae](assets/cv-en.pdf)
 
 Education
 -----
