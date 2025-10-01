@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+# [Curriculum Vitae](assets/files/cv-en.pdf)
+
 Education
 -----
 * Ph.D in Economics, School of Economics, Singapore Management University, 2021 - present.
@@ -26,6 +28,10 @@ Working Papers
 
 Conference and Seminar Presentations
 -----
+* 10th Workshop of the Australasian Macroeconomics Society, Melbourne, Australia 2025
+* Mini-Workshop on Search and Monetary Economics, Beijing, China 2025
+* Conference on Money and Banking, Shenyang, China 2025
+* SMU Seminar Series, Singapore 2025
 * Inaugural Workshop on China’s Development on Digital Finance, Guangzhou, China 2025
 * Asia-Pacific Search and Matching Workshop, Hong Kong 2025
 * SMU Brownbag Workshop, Singapore 2025
