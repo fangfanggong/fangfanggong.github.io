@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# [C.V.](assets/cv-en.pdf)
+# [C.V.](../assets/cv-en.pdf)
 
 Education
 -----
