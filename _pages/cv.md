@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# [C.V.](../assets/cv-en.pdf)
+[📄 C.V. (PDF)](/assets/cv-en.pdf)
 
 Education
 -----
@@ -19,7 +19,7 @@ Education
 
 Research Interests
 -----
-* Primary fields: Macroeconomics
+* Primary fields: Macroeconomics  
 * Secondary fields: Monetary economics
 
 Working Papers
@@ -45,6 +45,3 @@ Honors and Scholarships
 * Half Tuition Scholarship, NTU, 2021
 * Outstanding Graduate Student of the Year, Beijing Foreign Studies University, 2019
 * State Encouragement Scholarship, 2018
-
-  
-
