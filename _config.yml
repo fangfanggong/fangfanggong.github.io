@@ -22,7 +22,7 @@ repository               : "fangfanggong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Professional-Photo.jpg"
+  avatar           : "professional_photo.jpg"
   name             : "Gong, Fangfang"
   # pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics, SMU"
