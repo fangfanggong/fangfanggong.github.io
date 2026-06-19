@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. Candidate in Economics at Singapore Management University. My research interests are in the fields of macroeconomics, with a specialization in monetary seach.
+I will join the PBCSF Tsinghua as a postdoctoral researcher in July 2026. My research interests are in the fields of macroeconomics, with a specialization in monetary seach.
 
 Contact
 ------
