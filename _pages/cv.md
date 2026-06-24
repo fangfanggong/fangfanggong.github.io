@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 -----
-* Ph.D in Economics, School of Economics, Singapore Management University, 2021 - present.
+* Ph.D in Economics, School of Economics, Singapore Management University, 2021 - 2026.
 * Master in Applied Economics, School of Social Science, Nanyang Technological University, 2020-2021.
 * Bachelor in Economics, International Business School, Beijing Foreign Studies University, 2015-2019.
 
